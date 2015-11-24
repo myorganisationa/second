@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Hello new version of new version
+=======
 Hello new version
 
 master branch change
+>>>>>>> d8ff62e8463319e02b8b84680657dfdba8084a09
