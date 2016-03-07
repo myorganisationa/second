@@ -8,5 +8,6 @@
  /*
  * Two
  * */
- 
+ $ok = isset($fetch) ? "yeap" : 'nope';
+ var_dump( $ok );
  ?>
